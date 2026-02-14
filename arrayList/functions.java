@@ -26,5 +26,6 @@ for(int i=0;i<list.size();i++){
         
         Collections.sort(list);
         System.out.println(list);
+        System.out.println("hello world");
     }
 }
